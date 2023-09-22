@@ -1,3 +1,7 @@
+# Количество разработчиков: 1
+# Количество веток: 1
+# Количество копирования: 4
+# Регулярность использования: 31
 # TF-IDF, Sigma and Other (Experimental) Texts Analysing Tools
 
 [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) and Sigma analysis written in Python, which 
